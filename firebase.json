@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "new-cup",
+    "site": "newdubb",
     "public": "public",
     "ignore": [
       "firebase.json",
