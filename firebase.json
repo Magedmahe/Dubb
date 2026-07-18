@@ -1,0 +1,18 @@
+{
+  "hosting": {
+    "site": "new-cup",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/", 
+        "destination": "https://play.google.com/store/apps/details?id=com.magod.Swap2",
+        "type": 301
+      }
+    ]
+  }
+}
