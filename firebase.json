@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "newdubb",
+    "site": "another-web-qp",
     "public": "public",
     "ignore": [
       "firebase.json",
