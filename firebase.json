@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "another-web-qp",
+    "site": "coka-site",
     "public": "public",
     "ignore": [
       "firebase.json",
