@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "coka-site",
+    "site": "site-site-08",
     "public": "public",
     "ignore": [
       "firebase.json",
