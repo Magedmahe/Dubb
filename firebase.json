@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "mewhaw",
+    "site": "forsa-10",
     "public": "public",
     "ignore": [
       "firebase.json",
