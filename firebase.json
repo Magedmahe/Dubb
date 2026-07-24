@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "forsa-10",
+    "site": "new-dubizzle",
     "public": "public",
     "ignore": [
       "firebase.json",
