@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "keg-olx",
+    "site": "dubb-olx",
     "public": "public",
     "ignore": [
       "firebase.json",
