@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "dubb-olx",
+    "site": "one-on",
     "public": "public",
     "ignore": [
       "firebase.json",
