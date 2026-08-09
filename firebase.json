@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "very-new-olx",
+    "site": "new-site-dubizzle",
     "public": "public",
     "ignore": [
       "firebase.json",
