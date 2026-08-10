@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "new-site-dubizzle",
+    "site": "marketing-6",
     "public": "public",
     "ignore": [
       "firebase.json",
