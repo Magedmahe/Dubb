@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "marketing-6",
+    "site": "marketplace0",
     "public": "public",
     "ignore": [
       "firebase.json",
