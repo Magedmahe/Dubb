@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "marketplace0",
+    "site": "one-market-forever",
     "public": "public",
     "ignore": [
       "firebase.json",
