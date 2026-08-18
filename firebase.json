@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "one-market-forever",
+    "site": "egy-egy-mark",
     "public": "public",
     "ignore": [
       "firebase.json",
