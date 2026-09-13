@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "sellbuy-new",
+    "site": "econemy",
     "public": "public",
     "ignore": [
       "firebase.json",
