@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "econemy",
+    "site": "guess-guessa",
     "public": "public",
     "ignore": [
       "firebase.json",
