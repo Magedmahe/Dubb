@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "phone-smart",
+    "site": "master-one-one",
     "public": "public",
     "ignore": [
       "firebase.json",
