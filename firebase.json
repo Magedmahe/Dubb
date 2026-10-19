@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "master-one-one",
+    "site": "the-best-app",
     "public": "public",
     "ignore": [
       "firebase.json",
