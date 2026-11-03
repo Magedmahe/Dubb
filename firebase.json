@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "the-best-app",
+    "site": "shein-shein",
     "public": "public",
     "ignore": [
       "firebase.json",
